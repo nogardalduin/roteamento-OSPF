@@ -1,0 +1,11 @@
+router ospf 1
+network 192.168.0.0 0.0.0.255 area 0
+network 192.168.1.0 0.0.0.255 area 0
+network 192.168.2.0 0.0.0.255 area 0
+network 192.168.3.0 0.0.0.255 area 0
+
+router ospf 1
+network 192.168.4.0 0.0.0.255 area 0
+network 192.168.5.0 0.0.0.255 area 0
+network 192.168.6.0 0.0.0.255 area 0
+network 192.168.7.0 0.0.0.255 area 0
